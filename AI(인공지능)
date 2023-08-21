@@ -1,1 +1,103 @@
+<AI 개요>
+AI란 무엇인가? 딥러닝, 머신러닝과의 차이점, AI 역사, AI 윤리, 응용, AI 관련 직업군, AI 공부 참고 자료
 
+[AI]
+Artificial Intelligence (인공지능)
+> 인간의 학습능력, 추론능력, 지각능력, 그 외에 인공적으로 구현하여
+   인간...
+
+Natural:
+10^15(천조)
+~ 10+ Peta computations per sec
+
+~ 100 
+
+AI Break-through (성과)
+-딥블루(Deep Blue)
+-빅 도그(Big Dog)
+-왓슨(Watson)
+-구글 카(Google Car)
+-
+-알파고(AlphaGo)
+
+[AI 역사]
+1950s
+-AI
+1960s
+-
+1970s
+-터미네이터
+1980s
+
+1990s
+
+2000s
+-튜닝테스트
+2010s
+-2011: 
+
+[AI 성과 이정표]
+-
+
+[AI Evolution (진화)]
+-Weak (약) AI to Strong(강) AI,
+ Superintelligence (초지능)
+
+[Weak AI / Artificial Narrow Intelligence (ANI)]
+
+-특정 영역에서 특정 목적 달성을 위해 작동하는 AI
+-자율 주행, Deep Blue, AlphaGo (알파고), Siri.
+
+Strong AI / Artificial Gen
+
+ASI, Artifi
+
+How AI (NEural Network) works exactly? - black box (블랙박스)
+
+- NO one really knows how the 
+
+AI - dream or disaster?
+
+"해커에 대한 우려"
+   -Hugh Boyes-
+"
+
+Deep Learning
+- A Deep Network - feedforward( DNN, 순방향)
+- Recurrent Neural Network (RNNs, 순환)
+ https://medium.com/@issackondreddy/chapter-3-recurrent-neural-networks-unlocking-the-secrets-of-sequential-data-5905ab186730
+-Deep Neural Network
+ https://www.datacamp.com/tutorial/introduction-to-deep-neural-networks#rdl
+ 
+ RNN examples
+
+신경망이란 무엇일까? > 유튜브 찾아보기
+
+Convolution Neural Network (CNN)
+- Feature extraction (특징 추출)
+- Vision Recognition (시각 인식)
+
+심플링
+
+Deep Learning - Image Recognition
+
+트랜스포머(Transformer)
+-자연어처리 분야에서 주로 사용되는 모델. 2017년에 도입, 기존의 순환 신경망(RNN) 기반의 모델보다
+
+어텐션(Attention)?
+- 어텐션 메카니즘은 
+
+RNN (1986)
+LSTM (1997)
+Seq2Seq (2014)
+
+Sequence-to-Sequence 모델
+인코더 => 디코더
+
+Neural Machine Translation
+
+- Attention 필터가 와 곱해져서 최종적으로 얻고자 하는 F 가 되는 것처럼
+
+언어 모델 (LM, Ianguage model)
+
+Generative Pre-trained Transformer (GPT)
