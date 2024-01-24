@@ -87,7 +87,7 @@ spyder에서 레이아웃 추가
 	2.==.format()
 
 	%d : 정수(10진수) [integer]    # d는 decimal의 약자이다.
-	%o : 정수(8진수)
+	%o : 정수(8진수) [octal]
 	%x : 정수(16진수) [hexadecimal]
 	%f : 실수 [float]	       # %.2f 는 소수점 이하 2자리까지 표시하도록 지정합니다.
 	%c : 문자 [character]
