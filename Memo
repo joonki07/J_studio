@@ -229,7 +229,7 @@ list 선언
 	list명 = []	<-- 추후에 내용을 추가할때 
 
 list 길이
-	lon(list명)	#list의 길이
+	lon(list명)	#list의 길이를 잼
 list 사용
 	list명 = [1,2,3]
 
