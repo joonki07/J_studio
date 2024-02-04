@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\admin\Desktop\HJK C\Project1\Project1\소스.cpp(20,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\Users\admin\Desktop\HJK C\Project1\Project1\소스.cpp(20,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+C:\Users\admin\Desktop\HJK C\Project1\Project1\소스.cpp(27,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\admin\Desktop\HJK C\Project1\Project1\소스.cpp(20): error C4700: 초기화되지 않은 'mat' 지역 변수를 사용했습니다.
+C:\Users\admin\Desktop\HJK C\Project1\Project1\소스.cpp(20): error C4700: 초기화되지 않은 'eng' 지역 변수를 사용했습니다.
